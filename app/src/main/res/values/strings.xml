@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SushiRestaurant</string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="type_menu">หมวดอาหาร</string>
+</resources>
